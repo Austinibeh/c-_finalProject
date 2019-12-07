@@ -1,0 +1,11 @@
+/Users/Austinibeh/Desktop/Fall_semester_2019/2040 Programming Languages and Paradigms/MyMusicAnalyzer/MusicAnalyzer/MusicAnalyzer/bin/Debug/netcoreapp3.0/MusicAnalyzer
+/Users/Austinibeh/Desktop/Fall_semester_2019/2040 Programming Languages and Paradigms/MyMusicAnalyzer/MusicAnalyzer/MusicAnalyzer/bin/Debug/netcoreapp3.0/MusicAnalyzer.deps.json
+/Users/Austinibeh/Desktop/Fall_semester_2019/2040 Programming Languages and Paradigms/MyMusicAnalyzer/MusicAnalyzer/MusicAnalyzer/bin/Debug/netcoreapp3.0/MusicAnalyzer.runtimeconfig.json
+/Users/Austinibeh/Desktop/Fall_semester_2019/2040 Programming Languages and Paradigms/MyMusicAnalyzer/MusicAnalyzer/MusicAnalyzer/bin/Debug/netcoreapp3.0/MusicAnalyzer.runtimeconfig.dev.json
+/Users/Austinibeh/Desktop/Fall_semester_2019/2040 Programming Languages and Paradigms/MyMusicAnalyzer/MusicAnalyzer/MusicAnalyzer/bin/Debug/netcoreapp3.0/MusicAnalyzer.dll
+/Users/Austinibeh/Desktop/Fall_semester_2019/2040 Programming Languages and Paradigms/MyMusicAnalyzer/MusicAnalyzer/MusicAnalyzer/bin/Debug/netcoreapp3.0/MusicAnalyzer.pdb
+/Users/Austinibeh/Desktop/Fall_semester_2019/2040 Programming Languages and Paradigms/MyMusicAnalyzer/MusicAnalyzer/MusicAnalyzer/obj/Debug/netcoreapp3.0/MusicAnalyzer.csprojAssemblyReference.cache
+/Users/Austinibeh/Desktop/Fall_semester_2019/2040 Programming Languages and Paradigms/MyMusicAnalyzer/MusicAnalyzer/MusicAnalyzer/obj/Debug/netcoreapp3.0/MusicAnalyzer.AssemblyInfoInputs.cache
+/Users/Austinibeh/Desktop/Fall_semester_2019/2040 Programming Languages and Paradigms/MyMusicAnalyzer/MusicAnalyzer/MusicAnalyzer/obj/Debug/netcoreapp3.0/MusicAnalyzer.AssemblyInfo.cs
+/Users/Austinibeh/Desktop/Fall_semester_2019/2040 Programming Languages and Paradigms/MyMusicAnalyzer/MusicAnalyzer/MusicAnalyzer/obj/Debug/netcoreapp3.0/MusicAnalyzer.dll
+/Users/Austinibeh/Desktop/Fall_semester_2019/2040 Programming Languages and Paradigms/MyMusicAnalyzer/MusicAnalyzer/MusicAnalyzer/obj/Debug/netcoreapp3.0/MusicAnalyzer.pdb
